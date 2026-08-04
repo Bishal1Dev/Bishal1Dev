@@ -117,34 +117,6 @@ Contents include:
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bishal1Dev&show_icons=true&theme=tokyonight&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bishal1Dev&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Bishal1Dev&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Bishal1Dev&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
 # 📚 Currently Learning
 
 - Ethical Hacking
