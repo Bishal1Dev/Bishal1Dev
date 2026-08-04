@@ -1,25 +1,206 @@
-# 💫 About Me:
-Hi! I’m Bishal 👋<br>I’m passionate about learning, exploring new technologies, and solving challenging problems. I enjoy working on projects related to software development, cybersecurity, and CTF challenges. Always eager to collaborate, share knowledge, and grow in the tech community.
+<!-- ========================= -->
+<!--       GITHUB PROFILE      -->
+<!-- ========================= -->
 
+<h1 align="center">Hi 👋, I'm Bishal Lamichhane</h1>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bishal15223) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bishal-lamichhane-127619307) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bishallamichhane158@gmail.com) 
+<h3 align="center">
+Cybersecurity Student • Ethical Hacker • CTF Player • Python Developer
+</h3>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Bishal1Dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Bishal1Dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bishal1Dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<a href="https://github.com/Bishal1Dev">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Ethical+Hacker;Cybersecurity+Student;Python+Developer;Capture+The+Flag+Player;Always+Learning+New+Things" />
+
+</a>
+
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Bishal1Dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Bishal15223) 
+# 👨‍💻 About Me
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```bash
+> whoami
+
+Name        : Bishal Lamichhane
+Role        : Cybersecurity Student
+Focus       : Ethical Hacking
+Languages   : Python, Bash
+Interests   : CTF, Web Security, Linux, Networking
+Location    : Nepal
+```
+
+I enjoy building real-world security projects, solving Capture The Flag (CTF) challenges, writing technical documentation, and continuously improving my cybersecurity knowledge.
+
+---
+
+# 🚀 What I'm Currently Working On
+
+- 🔐 Cybersecurity Labs
+- 🏴 Hack The Box Challenges
+- 🧠 CTF Writeups
+- 🐍 Python Automation
+- 🌐 Flask Projects
+- 📚 Building my Cybersecurity Knowledge Base
+
+---
+
+# 📂 Portfolio
+
+## 🌐 Cybersecurity Portfolio
+
+📖 **GitBook**
+
+> https://bishal1.gitbook.io/cybersecurity-portfolio
+
+Inside you'll find:
+
+- HTB Writeups
+- CTF Writeups
+- Python Projects
+- Linux Notes
+- Web Security
+- Networking
+- Reverse Engineering
+- Digital Forensics
+- Cybersecurity Notes
+
+---
+
+# 💻 Tech Stack
+
+### Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
+
+---
+
+### Web Development
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+
+---
+
+### Cybersecurity
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![Kali Linux](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux)
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark)
+
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bishal1Dev&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bishal1Dev&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bishal1Dev&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Bishal1Dev&theme=tokyonight&no-frame=true&margin-w=8"/>
+
+</p>
+
+---
+
+# 📚 Learning
+
+✔ Python
+
+✔ Linux
+
+✔ Networking
+
+✔ Web Security
+
+✔ Reverse Engineering
+
+✔ Digital Forensics
+
+✔ Active Directory
+
+✔ Privilege Escalation
+
+✔ CTF Challenges
+
+---
+
+# 🔗 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/bishal-lamichhane-127619307/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://bishal1.gitbook.io/cybersecurity-portfolio">
+<img src="https://img.shields.io/badge/GitBook-3884FF?style=for-the-badge&logo=gitbook&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Bishal1Dev">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:bishallamichhane158@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Favorite Quote
+
+> **"Learn. Build. Break. Secure. Repeat."**
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Bishal1Dev&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Every challenge solved is another step toward becoming a better cybersecurity professional."*
+
+</div>
